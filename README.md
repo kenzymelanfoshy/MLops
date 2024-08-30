@@ -10,11 +10,7 @@ Welcome to the MLflow project! This repository is dedicated to demonstrating the
   - [Model Versioning](#model-versioning)
   - [Model Deployment](#model-deployment)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
@@ -50,9 +46,6 @@ To run this project, ensure you have the following packages installed:
 - Numpy
 - Matplotlib
 
-You can install these dependencies using the following command:
 
-```bash
-pip install -r requirements.txt
 
 
