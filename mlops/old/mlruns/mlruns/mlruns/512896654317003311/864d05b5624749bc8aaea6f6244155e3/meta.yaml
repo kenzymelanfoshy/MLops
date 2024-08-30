@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Omen/Desktop/mlops/mlruns/mlruns/mlruns/512896654317003311/864d05b5624749bc8aaea6f6244155e3/artifacts
+end_time: 1724946455914
+entry_point_name: ''
+experiment_id: '512896654317003311'
+lifecycle_stage: active
+run_id: 864d05b5624749bc8aaea6f6244155e3
+run_name: delightful-rook-286
+run_uuid: 864d05b5624749bc8aaea6f6244155e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724946455882
+status: 3
+tags: []
+user_id: Omen

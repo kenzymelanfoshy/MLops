@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Omen/Desktop/mlops/mlruns/mlruns/891463632405570362/6c208f1a633943f79036fa118a763858/artifacts
+end_time: 1724946379003
+entry_point_name: ''
+experiment_id: '891463632405570362'
+lifecycle_stage: active
+run_id: 6c208f1a633943f79036fa118a763858
+run_name: zealous-duck-469
+run_uuid: 6c208f1a633943f79036fa118a763858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724946378953
+status: 3
+tags: []
+user_id: Omen

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Omen/Desktop/mlops/mlruns/mlruns/mlruns/825633029196752891/da77c3d98c4f45ada58022db33219fc9/artifacts
+end_time: 1724956661710
+entry_point_name: ''
+experiment_id: '825633029196752891'
+lifecycle_stage: active
+run_id: da77c3d98c4f45ada58022db33219fc9
+run_name: masked-cow-175
+run_uuid: da77c3d98c4f45ada58022db33219fc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724956661640
+status: 4
+tags: []
+user_id: Omen

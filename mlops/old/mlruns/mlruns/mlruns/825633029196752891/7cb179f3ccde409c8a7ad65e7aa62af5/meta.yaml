@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Omen/Desktop/mlops/mlruns/mlruns/mlruns/825633029196752891/7cb179f3ccde409c8a7ad65e7aa62af5/artifacts
+end_time: 1724956968208
+entry_point_name: ''
+experiment_id: '825633029196752891'
+lifecycle_stage: active
+run_id: 7cb179f3ccde409c8a7ad65e7aa62af5
+run_name: mercurial-vole-381
+run_uuid: 7cb179f3ccde409c8a7ad65e7aa62af5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724956956701
+status: 3
+tags: []
+user_id: Omen

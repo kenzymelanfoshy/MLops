@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Omen/Desktop/mlops/mlruns/mlruns/891463632405570362/9c94385fb8ae4b4e921e18b3b2e4ed92/artifacts
+end_time: 1724946245673
+entry_point_name: ''
+experiment_id: '891463632405570362'
+lifecycle_stage: active
+run_id: 9c94385fb8ae4b4e921e18b3b2e4ed92
+run_name: abundant-newt-263
+run_uuid: 9c94385fb8ae4b4e921e18b3b2e4ed92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724946245630
+status: 3
+tags: []
+user_id: Omen

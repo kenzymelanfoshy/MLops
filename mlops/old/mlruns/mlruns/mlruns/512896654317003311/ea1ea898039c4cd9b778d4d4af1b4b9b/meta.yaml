@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Omen/Desktop/mlops/mlruns/mlruns/mlruns/512896654317003311/ea1ea898039c4cd9b778d4d4af1b4b9b/artifacts
+end_time: 1724946570289
+entry_point_name: ''
+experiment_id: '512896654317003311'
+lifecycle_stage: active
+run_id: ea1ea898039c4cd9b778d4d4af1b4b9b
+run_name: capable-donkey-81
+run_uuid: ea1ea898039c4cd9b778d4d4af1b4b9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724946570252
+status: 3
+tags: []
+user_id: Omen

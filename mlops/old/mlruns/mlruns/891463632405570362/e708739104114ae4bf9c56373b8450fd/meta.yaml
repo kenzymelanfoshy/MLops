@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Omen/Desktop/mlops/mlruns/mlruns/891463632405570362/e708739104114ae4bf9c56373b8450fd/artifacts
+end_time: 1724946268981
+entry_point_name: ''
+experiment_id: '891463632405570362'
+lifecycle_stage: active
+run_id: e708739104114ae4bf9c56373b8450fd
+run_name: orderly-elk-474
+run_uuid: e708739104114ae4bf9c56373b8450fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724946268951
+status: 3
+tags: []
+user_id: Omen
