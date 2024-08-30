@@ -46,6 +46,20 @@ To run this project, ensure you have the following packages installed:
 - Numpy
 - Matplotlib
 
+## Explanation of the Structure:
+### data/:
+Contains raw and processed datasets.  The raw/ folder is for original datasets, and processed/ contains cleaned and preprocessed data ready for modeling.
+### scripts/: 
+Python scripts for automating tasks like training, evaluation, and deployment. These scripts can be run independently or via MLflow.
+
+###  models/: 
+Stores the models generated during the project. Each model can have multiple versions, and this directory keeps them organized.
+
+### mlruns/:
+This folder is automatically created by MLflow to store all the metadata related to your experiments, such as parameters, metrics, and artifacts.
+
+### requirements.txt:
+Lists all the Python dependencies needed to run the project, which can be installed using pip install -r requirements.txt.
 
 
 
