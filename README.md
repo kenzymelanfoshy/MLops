@@ -5,7 +5,6 @@ Welcome to the MLflow project! This repository is dedicated to demonstrating the
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Project Structure](#project-structure)
 - [Features](#features)
   - [Experiment Tracking](#experiment-tracking)
   - [Model Versioning](#model-versioning)
@@ -20,33 +19,6 @@ Welcome to the MLflow project! This repository is dedicated to demonstrating the
 ## Introduction
 
 This project provides an end-to-end example of how to manage machine learning workflows using MLflow. MLflow is an open-source platform for managing the complete machine learning lifecycle, from experimentation to deployment. It enables data scientists and engineers to track experiments, package code into reproducible runs, and deploy machine learning models to production.
-
-## Project Structuremlflow-project/
-│
-├── data/
-│   ├── raw/                         # Raw, unprocessed data
-│   ├── processed/                   # Processed data ready for training/testing
-│   └── README.md                    # Documentation about the data
-│
-├── scripts/
-│   ├── train.py                     # Script for training the model
-│   ├── evaluate.py                  # Script for evaluating the model
-│   └── deploy.py                    # Script for deploying the model using MLflow
-│
-├── models/
-│   ├── model_name/                  # Directory for saved models
-│   │   ├── version_1/               # Version 1 of the model
-│   │   │   └── model.pkl            # Saved model file
-│   │   ├── version_2/               # Version 2 of the model
-│   │   │   └── model.pkl            # Saved model file
-│   └── README.md                    # Documentation about the models
-│
-├── mlruns/                          # Directory where MLflow stores experiment data
-│   ├── 0/                           # Folder for the first experiment
-│   ├── 1/                           # Folder for the second experiment
-│   └── ...                          # More experiment folders as you run more experiments
-
-
 
 ## Features
 
